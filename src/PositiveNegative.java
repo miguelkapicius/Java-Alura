@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge {
+public class PositiveNegative {
     public static void main(String[] args) {
         Scanner reading = new Scanner(System.in);
 
